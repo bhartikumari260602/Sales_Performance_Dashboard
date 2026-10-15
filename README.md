@@ -1,5 +1,11 @@
 📊 AuraTech Sales DASHBOARD | Excel Dashboard | 2025-2026
 
+I'm excited to share my latest AuraTech Sales Dashboard, designed for real-time performance tracking and analysis!
+
+ 📁 Files in this Repository
+- <a href="https://github.com/bhartikumari260602/Sales_Performance_Dashboard/blob/main/AuraTech_Excel_Project_1200.xlsx">Dataset view</a>
+- <a href="https://github.com/bhartikumari260602/Sales_Performance_Dashboard/blob/main/AuraTech_Sales_Dashboard.png">Dashboard view</a>
+
 Overview
 
 This is an interactive **Sales Performance Dashboard** built in Microsoft Excel to analyze sales, profit, and order trends for the year 2025-2026. The dashboard is designed to provide actionable business insights for decision-making and to showcase end-to-end data analysis from data cleaning to visualization.
@@ -51,6 +57,10 @@ This is an interactive **Sales Performance Dashboard** built in Microsoft Excel 
 - Connecting multiple charts to a single filter
 - Translating raw data into business insights and storytelling
 - Dashboard  design for better readability
+
+💡 Looking for a custom dashboard? Let's connect!
+
+<img width="711" height="544" alt="AuraTech_Sales_Dashboard" src="https://github.com/user-attachments/assets/fd9a4942-0856-4429-95f8-3c0bd6b3bf01" />
 
 
 #Excel #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualization #SalesAnalysis
