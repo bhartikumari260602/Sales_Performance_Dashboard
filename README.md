@@ -58,9 +58,5 @@ This is an interactive **Sales Performance Dashboard** built in Microsoft Excel 
 - Translating raw data into business insights and storytelling
 - Dashboard  design for better readability
 
-💡 Looking for a custom dashboard? Let's connect!
-
-<img width="711" height="544" alt="AuraTech_Sales_Dashboard" src="https://github.com/user-attachments/assets/fd9a4942-0856-4429-95f8-3c0bd6b3bf01" />
-
 
 #Excel #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualization #SalesAnalysis
